@@ -1,16 +1,18 @@
-absteigen;descer,sair (do)
-abspielen;tocar, tocar o hino nascinal
 abbrechen;interromper
 abfahren;partir (transporte)
 abhalten;manter distancia
 abholen;pegar (uma pessoa)
 abonnieren;se increver, assinar (subscription)
 absagen;cancelar
+abschalten;desligar
+abschauen;copiar
+abspielen;tocar, tocar o hino nascinal
+absteigen;descer,sair (do)
 anfangen;começar
 anrufen;telefonar
 antworten;responder
-anziehen;atrair
 anziehen (sich);vestir-se
+anziehen;atrair
 atmen;respirar
 aufgeben;desistir
 aufhalten;parar
@@ -21,14 +23,14 @@ aufteilen;separar
 aufwachen;acordar
 auslöschen;extinguir (fogo)
 ausschalten;desligar (den Motor, das Licht, das Radio, den Strom)
-abschalten;desligar
-abschauen;copiar
 aussteigen;sair (do carro)
 auswechseln;trocar
 backen;assar
 bedauern;arrepender
+bedienen;usar,operar,servir
 begrüßen;agradecer
 benutzen;usar
+beraten;discutir
 bestellen;ordenar (um pedido)
 besuchen;visitar
 betreten;entrar
@@ -49,11 +51,11 @@ einstecken;colocar (algo) dentro (de algo)
 einsteigen;entrar (no carro)
 empfangen;receber
 entender;verstehen
-entfernen;retirar
 entfernen (sich);deixar (o lugar)
+entfernen;retirar
 entgegennehmen;receber (uma chamada/telefonema/pacote)
-entspannen;relaxar (o músculo)
 entspannen (sich);relaxar
+entspannen;relaxar (o músculo)
 entwickeln;desenvolver
 erinnern (sich);lembrar
 ersticken;engasgar
@@ -71,26 +73,30 @@ glauben;acreditar
 graben;escavar
 grillen;grelhar
 gucken;olhar
+gönnen;permitir
 haben;ter
 halten;segurar, parar
-hängen;pendurar
 heiraten;casar
-heißen;chamar-se
 heizen;esquentar
+heißen;chamar-se
 helfen;ajudar
 herunter kommen;descer
+herunterladen;download
 hochrutschen;subir
-höhen;escutar
 holen;pegar
 husten;tossir
-kämmen;pentear
+hängen;pendurar
+höhen;escutar
+in kraft treten;tornar efetivo, efetivar
 kaufen;comprar
 kennenlernen;conhecer alguém
 klettern;escalar
 kochen;cozinhar
 kommen;vir
 kontrollieren;controlar
+kämmen;pentear
 kümmern (sich um);se preocupar com
+laden;carregar
 laufen;correr
 leben;viver
 legen;colocar algo na horizontal/deitado
@@ -98,15 +104,16 @@ lehen;ensinar
 leiden;sofrer
 lesen;ler
 lieben;amar
+lockern;afrouxar
 löschen;excluir
 machen;fazer
 mischen;misturar
 mögen;gostar
+nachziehen;seguir (um exemplo, uma ação)
 nass machen;molhar
 nehmen;tomar
 niesen;espirrar
 offenbaren;revelar (a verdade)
-öffnen;abrir
 pinkeln;fazer xixi
 probieren;provar (uma roupa/comida)
 putzen;limpar, escovar os dentes
@@ -130,11 +137,11 @@ sehen;assistir, ver
 sein;ser, estar
 senden;mandar
 singen;cantar
-spähen;espiar
 spazieren gehen;passear (na cidade)
 speichern;poupar/salvar
 spilen;brincar, tocar
 sprechen;falar
+spähen;espiar
 stehen;em pé
 stehlen;roubar
 steigen;subir (num carro, num animal, o nascer-do-sol, a fumaça)
@@ -144,12 +151,10 @@ studieren;estudar
 suchen;procurar por
 tanzen;dançar
 teilen;separar, dividir, compartilhar
-tötten;matar
 tragen;carregar, vestir
 trennen;separar
 trocken;secar
-übergeben (sich);vomitar
-überprü̲fen;check/testar (uma prova)
+tötten;matar
 umkleiden sich;se trocar
 umtauschen;mudar (coisas)
 umziehen;se mudar (de local)
@@ -158,25 +163,28 @@ urinieren;urinar
 verbringen;passar (o tempo, as férias, o ano)
 vergessen;esquecer
 verkaufen;vender
-verlassen;sair
 verlassen (sich);depender,confiar
+verlassen;sair
 verletzen;machucar
 verlieren;perder
 verschieben;adiar
 verstehen;entender
+vorpreschen;sair na frente, pioneiro
 vorstellen;apresentar
-warten;esperar
 warten auf;esperar por
+warten;esperar
 wechseln;trocar por outra coisa
 weiter;prosseguir
 werden;se tornar
 werfen;arremessar
 wohnen;morar
 wollen;want
-zählen;contar
 ziehen;puxar
 zumachen;fechar janela/fábrica/olhos/pacote
 zurückbringen/zurückgeben;retornar
 zurückkommen;voltar
 zustimmen;concordar
-gönnen;permitir
+zählen;contar
+öffnen;abrir
+übergeben (sich);vomitar
+überprü̲fen;check/testar (uma prova)
