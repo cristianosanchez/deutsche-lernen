@@ -17,7 +17,16 @@ anziehen//zieht an/ zog an/ ist angezogen:atrair (alguém/algo); vestir (algo)
 atmen//atmet/ atmete/ hat geatmet:respirar
 aufbewahren//bewahrt auf/ bewahrte auf/ hat aufbewahrt:guardar; conservar; manter
 aufgeben//gibt auf/ gab auf/ hat aufgegeben:desistir (algo); abandonar
+aufhalten//hält auf/ hielt auf/hat aufehalten:parar (algo); atrasar; impedir
+aufmachen//macht auf/ machte auf/ hat:abrir (algo como das Fenster, die Fabrik, das Auge; das Paket)
+aufnehmen//nimmt auf/ nahm auf/ hat aufgenommen:incluir (algo); receber; iniciar; gravar (algo); pegar (algo)
+aufregen//regt auf/ regte auf/ hat aufgeregt:irritar (alguém)
+aufräumen//räumt auf/ räumte auf/ hat aufgeräumt:arrumar (algo); limpar
+aufschieben//schiebt auf/ schob auf/ hat aufgeschoben:adiar (algo); atrasar; suspender
 aufstehen//steht auf/ stand auf/ ist aufgestanden:acordar; levantar
+aufteilen//teilt auf/ teilte auf/ ist aufgeteilt:separar (algo); dividir
+aufwachen//wacht auf/ wachte auf/ ist aufgewacht:acordar
+ausschalten//schaltet aus/ schaltete aus/ hat ausgeschaltet:desligar (algo como den Motor, das Licht, das Radio, den Strom)
 aussehen//sieht aus/ sah aus/ hat ausgesehen:aparentar (alguém/algo); parecer (alguém/algo)
 bekommen//bekommt/ bekam/ hat bekommen:receber; conseguir
 belegen//belegt/ belegte/ hat belegt:demonstrar (algo); provar; comprovar
