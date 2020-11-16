@@ -26,12 +26,26 @@ aufschieben//schiebt auf/ schob auf/ hat aufgeschoben:adiar (algo); atrasar; sus
 aufstehen//steht auf/ stand auf/ ist aufgestanden:acordar; levantar
 aufteilen//teilt auf/ teilte auf/ ist aufgeteilt:separar (algo); dividir
 aufwachen//wacht auf/ wachte auf/ ist aufgewacht:acordar
+auslöschen//löschst aus/ löschte aus/ hat ausgelöscht:extinguir (z.B. fogo); destruir
 ausschalten//schaltet aus/ schaltete aus/ hat ausgeschaltet:desligar (algo como den Motor, das Licht, das Radio, den Strom)
 aussehen//sieht aus/ sah aus/ hat ausgesehen:aparentar (alguém/algo); parecer (alguém/algo)
-bekommen//bekommt/ bekam/ hat bekommen:receber; conseguir
+aussteigen//steigt aus/ stieg aus/ hat ausgestiegen:sair (do carro); desembarcar
+austauschen//tauscht aus/ tauschte aus/ hat ausgetauscht:trocar (algo entre pessoas)
+auswechseln//wechselt aus/ wechselte aus/ hat ausgewechselt:substituir (um objeto por outro)
+bearbeiten//bearbeitet/ bearbeitete/ hat bearbeitet:editar (algo); processar
+bedienen//bedient/ bediente/ hat bedient:operar (algo); servir (alguém)
+behalten//behält/ behielt/ hat behalten:manter (algo)
+bekommen//bekommt/ bekam/ hat bekommen:receber; obter
 belegen//belegt/ belegte/ hat belegt:demonstrar (algo); provar; comprovar
+benutzen//benutzt/ benutzte// hat benutzt:usar
 beschreiben//beschreibt/ beschreib/ hat beschreiben:descrever (alguém/algo)
 beschweren (sich)//beschwert/ beschwerte/ hat beschwert:reclamar; queixar-se
+bestellen//bestellt/ bestellte/ hat bestellt:ordenar (algo); apontar (nomear alguém)
+besuchen//besucht/ besuchte/ hat besucht:visitar; atender (z.B. reunião)
+betrieben//betriebt/ betrieben/ hat betrieben:operar; executar; rodar (z.B. um programa de computador)
+bewachen//bewacht/ bewachte/ hat bewacht:armazenar (algo/alguém)
+bezahlen//bezahlt/ bezahlte/ hat bezahlt:pagar
+bleiben//bleibt/ blieb/ ist geblieben:ficar; manter
 brechen//bricht/ brach/ hat gebrochen:quebrar; partir; violar
 decken//deckt/ deckte/ hat gedeckt:cobrir (algo); encontrar; satisfazer
 entdecken//entdeckt/ entdeckte/ hat entdeckt:descobrir (algo); detectar

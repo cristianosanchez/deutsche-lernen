@@ -16,7 +16,7 @@ sort --field-separator=';' -o deutsche-verben.md deutsche-verben.md
 To find duplicates, use:
 
 ```
-awk -F ";" '{print $1}' deutsche-verben.md | sort | uniq -d
+awk -F "//" '{print $1}' deutsche-verben.md | sort | uniq -d
 ```
 
 To output to a file just the diff of new entries (after sorting), use:
