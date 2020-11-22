@@ -72,10 +72,24 @@ denken//denkt/ dachte/ hat gedacht:pensar; achar
 drucken//druckt/ druckte/ hat gedruckt:imprimir; pressionar;
 einkaufen gehen//geht einkaufen/ ging einkaufen/ ist einkaufen gegangen:ir às compras
 einnehmen//nimmt ein/ nahm ein/ hat eingenommen:tomar (o medicamento); ocupar (z.B. o tempo)
+einschalten//schaltet ein/ schaltete ein/ hat eingeschaltet:ligar (z.B. den Motor, das Licht, das Radio, den Strom)
+einstecken//steckt ein/ steckte ein/ hat eingesteckt:inserir; plugar
+einsteigen//steigt ein/ stieg ein/ ist eingestiegen:entrar (z.B. in den Zug)
+empfangen//empfängt/ empfing/ hat empfangen:receber (algo/alguém)
+empfinden//empfindet/ empfand/ hat empfunden: sentir (algo)
 entdecken//entdeckt/ entdeckte/ hat entdeckt:descobrir (algo); detectar
+entfernen//entfernt/ entfernte/ hat entfernt:remover (algo)
+entgegennehmen//nimmst entgegen/ nahm entgegen/ hat entgegengenommen:receber (z.B. das Geschenk)
 entkommen//entkommt/ entkam/ bin entkommen:escapar; fugir;
 entschuldigen//entschuldigt/ entschuldigte/ hat entschuldigt:desculpar (alguém)
+entspannen//entspannt/ entspannte/ hat entspannt:relaxar
+enttäuschen//enttäuscht/ enttäuschte/hat enttäuscht:desapontar (alguém)
+entwickeln//entwickelt/ entwickelte/ hat entwickelt:desenvolver; processar; design (algo)
+erinnern//erinnert/ erinnerte/ hat erinnert:lembrar
 erkennen//erkennt/ erkannte/ hat ekannt:reconhecer (alguém/algo); ver (algo); identificar (algo)
+ersticken//erstickt/ erstickte/ ist erstickt:engasgar; sufocar
+erstrecken//erstreckt/ erstreckte/ hat erstreckt:esticar; extender
+erwarten//erwartet/ erwartete/ hat erwartet:aguardar (algo); esperar
 essen//isst/ aß/ hat gegessen:comer; almoçar
 gefallen//gefällt/ gefiel/ hat gefallen:cair; gostar (de algo)
 gehören//gehört/ gehörte/ hat gehört:pertencer (a alguém)
