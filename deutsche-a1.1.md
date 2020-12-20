@@ -1,1 +1,0 @@
-Ich habe mir heute ein Stück Kuchen gegönnt.
