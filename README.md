@@ -10,14 +10,22 @@ Other formats are specified by a header line comment.
 You may sort the file before import to some tool, like Anki or Quizlet:
 
 ```
-sort --field-separator=';' -o deutsche-verben.md deutsche-verben.md
+sort --field-separator=':' -o deutsche-adjektive.md deutsche-adjektive.md
+```
+
+To skip prefix (genre, for example), use:
+
+```
+sort -k1.4 --field-separator=':' -o deutsche-substantiv.md deutsche-substantiv.md
 ```
 
 To find duplicates, use:
 
 ```
-awk -F "//" '{print $1}' deutsche-verben.md | sort | uniq -d
+awk -F ":" '{print $1}' deutsche-substantiv.md | sort | uniq -d
 ```
+
+Note that // is the terminator.
 
 To output to a file just the diff of new entries (after sorting), use:
 
