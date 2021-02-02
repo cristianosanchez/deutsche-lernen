@@ -1,18 +1,22 @@
-falls:in case of; if; Wenn es regnet, sollte ihr einen Regenschirm verwenden.
-sondern:rather; but; nicht nur funktionieren, sonder auch, dass...
-übrigens: por falar nisso
-echt:genuine; real; true; Der Ring ist aus ~ Gold.
-ziemlich:consideravelmente; quite; kind of; Es ist schon ~ spät.
-krass:amazing; extreme; badass; Deutsche gelernt in 2 Monate? Das ist ~.
-niemand: ninguém
-nie: nunca
-weiterhin: continuar fazendo/sendo
-deswegen: therefore; for this reason
-in kraft treten:tornar efetivo, efetivar
+dafür: pra isso; 
+damit: de forma que; com isso; so that; 
+danach: e então; e depois; then; afterwards 
+darum:  por conta disso; therefore; because of that
+deshalb: por conta disso; therefore; because of that
+deswegen: por conta disso; therefore; because of that
 eher als:ao invés que;
 eher:ao invés;
-wenig mehr als:little more than 
-mehr als:in excess of 
-weniger als:less than
+falls:se
+jeder: alguém; anybody
 mehr als das:more than somewhat
+mehr als:in excess of 
 mehr:mais
+nichts:nada; nothing
+nie: nunca; never
+niemand: ninguém; nobody
+sondern:mas; pelo contrário
+weiterhin: e indo mais além; furthermore
+wenig mehr als:little more than 
+weniger als:less than
+ziemlich:consideravelmente; quite
+übrigens:por falar nisso

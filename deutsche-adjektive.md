@@ -89,6 +89,7 @@ komplett:completo;
 kompliziert:complicado; complexo;
 kostenlos:gratuito; 
 krank:doente;
+krass:extremo; demais
 kräftig:forte; poderoso;
 kurz:curto; breve;
 kürzlich:recente;
@@ -142,7 +143,7 @@ schlecht:ruim;
 schmutzig:sujo;
 schnell:rápido;
 schwer:difícil;
-schwierig:complicado;
+schwierig:difícil;complicado;
 schön:bonito;
 selbstverständlich:natural;
 selten:raro;
