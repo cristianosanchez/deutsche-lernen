@@ -2,6 +2,7 @@
 der Abend:tarde
 das Abendessen:jantar
 das Abenteuer:aventura
+der Abgeordnete:membro do parlamento
 der Abschnitt:seção; artigo; parágrafo
 die Abstimmung:voto
 die Abteilung:seção; departamento
@@ -18,6 +19,7 @@ die Alternative:alternativa; opção
 das Amt:escritório; departamento
 die Analyse:análise
 der Anblick:sinal
+der Anfang:início
 der Anfänger:iniciante; novato
 die Angabe:informação
 das Angebot:oferta
@@ -253,6 +255,7 @@ xxx Fans
 xxx Farbe
 der Fehler:erro; equívoco
 das Feld:campo; área
+das Fell:pelos;pelagem animal
 xxx Fenster:janela
 xxx Ferien
 das Fernsehen:televisão
@@ -276,6 +279,7 @@ das Flugzeug:avião
 xxx Fläche
 die Fläche:superfície, área
 xxx Flüge
+der Flügel:asa
 xxx Form
 xxx Formular
 xxx Forschung
@@ -298,6 +302,7 @@ xxx Freund:amigo
 xxx Freundin:amiga
 der Friseur, die Friseurin:o cabelereiro
 xxx Frist
+der Frühling:primavera
 xxx Frühstück:café da manhã
 der Fuß:pé
 xxx Fuß:pé
@@ -366,6 +371,7 @@ xxx Gras
 xxx Großeltern
 xxx Großmutter
 xxx Großvater
+der Grund:motivo
 die Grundlage:bases; fundamentos
 der Grundsatz:the principle
 die Grundschule:the primary school
@@ -395,11 +401,12 @@ xxx Haus
 xxx Haushalt
 xxx Haustier
 xxx Haut
-die Heimat:the home country
+die Heimat:lar
 xxx Heimwerker
 xxx Heizung
 xxx Hemd
 xxx Herbst
+der Herbst:outono
 die Herkunft:origen; natural de um lugar
 xxx Herr
 xxx Herren
@@ -489,8 +496,10 @@ das Kino:cinema
 die Kirche:igreja
 xxx Klasse
 xxx Kleid
+das Kleid:vestido
 xxx Kleider
 xxx Kleidung
+die Kleidung:roupa
 xxx Kleinanzeigen
 xxx Klima
 xxx Klinik
@@ -633,6 +642,7 @@ die Museumsinsel:the Berlin Museum Island
 die Musik:música
 xxx Musiker:músico
 das Musikinstrumente;instrumento musical
+der Mut:coragem
 die Mutter:mãe
 der Muttersprachler:língua mãe; idioma nativo
 das Mädchen:garota
@@ -643,8 +653,8 @@ xxx Möbel
 die Möglichkeit:possibilidade
 die Mühle:moedor
 der Müll:o lixo
-xxx Münzen
-die Mütze:o boné
+die Münze:moeda
+die Mütze:gorro (de inverno)
 die Nachrichten:notícias; novidades
 die Nachspeise:sobremesa
 die Nacht:noite
@@ -696,6 +706,7 @@ xxx Personal
 der Personalausweis:the identity card
 xxx Pferd
 xxx Pflanzen
+das Pflaster:band-aid
 xxx Pflege
 das Pflegeheim:the nursing home
 xxx Phase
@@ -794,7 +805,7 @@ xxx Richter
 die Richtung:direção
 xxx Ring
 das Risiko:risco
-xxx Rock
+der Rock:saia
 xxx Rolle
 der Roman:romance; novela
 xxx Rot
@@ -818,19 +829,23 @@ der Schauspieler:o ator
 die Schauspielerin:atriz
 xxx Schere
 das Schimpfwort:the swearword
+die Schirmmütze:boné
 xxx Schlaf
 xxx Schlafzimmer
 xxx Schluss
 das Schlusswort:the closing remarks
+das Schlängeln:meandros
 xxx Schlüssel
 die Schmelze:esmalte
 der Schmerz:dor
 den Schmuck:jóia
+die Schnauze:fucinho
 xxx Schneider
 der Schnurrbart:bigode
 xxx Schokolade
 xxx Schrift
-xxx Schuh
+der Schuh:sapato
+die Schuhe:sapatos
 xxx Schule
 xxx Schweden
 das Schwein:the pig
@@ -871,6 +886,8 @@ xxx Sofa
 xxx Sohn
 der Sohn:o filho
 xxx Sommer
+der Sommer:verão
+die Sommerkleidung
 xxx Sonne
 xxx Sonntag
 xxx Spalte
@@ -1098,6 +1115,7 @@ die Wahrheitn:verdade
 der Wald:floresta
 das Waldgebiet:the forest
 die Wand:parede
+die Wange:bochecha
 xxx Ware
 die Wartungsfirma:empresa de manutenção
 xxx Wasser
@@ -1122,6 +1140,7 @@ xxx Wetter
 die Wiedervereinigung:reunificação
 xxx Wiese
 xxx Wind
+der Winter:inverno
 die Wirbelsäule:espinha dorsal; coluna vertebral
 xxx Wirkung
 die Wirtschaft:economia
@@ -1171,6 +1190,7 @@ der Zustand:condição; estado
 die Zustimmung:consentimento; aprovação
 der Zweck:objetivo
 der Zyklus:ciclo
+die kurze Hose:bermuda
 die soße:molho
 die Änderung:mudança; troca
 die Ärztin:médica
