@@ -84,6 +84,7 @@ kaputt:quebrado;
 klar:claro; explicito;
 klein:pequeno;
 knapp:escasso; 
+knielanges:até o joelho (ein knielanges Kleid);
 komisch:estranho; comico;
 komplett:completo;
 kompliziert:complicado; complexo;

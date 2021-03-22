@@ -22,7 +22,7 @@ sort -k1.4 --field-separator=':' -o deutsche-substantiv.md deutsche-substantiv.m
 To find duplicates, use:
 
 ```
-awk -F ":" '{print $1}' deutsche-substantiv.md | sort | uniq -d
+awk -F ":" '{print $1}' deutsche-adjektive.md | sort | uniq -d
 ```
 
 Note that // is the terminator.
@@ -30,7 +30,7 @@ Note that // is the terminator.
 To output to a file just the diff of new entries (after sorting), use:
 
 ```
-git diff -U0 deutsche-verben.md| grep '^[+-]' | grep -Ev '^(--- a/|\+\+\+ b/)' | cut -c 2-
+git diff -U0 deutsche-adjektive.md| grep '^[+-]' | grep -Ev '^(--- a/|\+\+\+ b/)' | cut -c 2-
 ```
 
 TODO create an make script to:
