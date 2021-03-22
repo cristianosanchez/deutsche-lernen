@@ -87,3 +87,21 @@ Wir können im Falle einer Stornierung einen Anspruch auf Entschädigung geltend
 Wir können jedes Hindernis überwinden, wenn wir nicht aufgeben.
 Wir müssen bei der zuständigen Behörde eine Erlaubnis beantragen.
 Wir sollten in den Bus einsteigen, bevor er abfährt.
+Sonst noch etwas?:Mais alguma coisa?
+Was sollst du jeztz machen?:Oque você deve fazer agora?
+Ich möchte gern essen.:Eu gostaria de comer.
+Mir reicht es.:É suficiente pra mim.
+Es ist jedoch nicht möglich.:Porém não é possível.
+Ich wollte es dir zeigen.:Eu queria te mostrar.
+
+(etw.Akk) halten v
+Sie halten einige Hühner in ihrem Garten.:They keep several hens in their garden. 
+Sie streckte ihre Arme aus, um ihr Gleichgewicht zu halten.:She extended her arms to keep her balance.
+Wir packen unsere Sommerkleidung immer am Anfang des Frühlings aus.:Nós tiramos nossas roupas de verão do armário sempre no início da primavera.
+Am FKK-Strand braucht man keine Kleidung.:Na praia de nudismo não precisamos de roupa.
+Tom trägt beim Fußballspielen eine kurze Hose, die ihm bis zu den Knien reicht.:Tom veste bermudas para jogar futebol, as dele vão até o joelho.
+Ein T-Shirt (das) hat kurze Ärmel, keinen Kragen un keine Knöpfe.:Uma camiseta não tem braços, não tem golas e não tem botões.
+Flip-Flops sind leichte Sandalen aus Gummi.
+Flip-Flops sind im Sommer bequemer als Schuhe.
+In den Sechzigern waren seht kurze Röcke modern.:Nos anos sessenta as saias bem curtas eram moda.
+Ich trage normalerweise (das) T-Shirts im Sommer.:No verão eu geralmente uso camisetas.
